@@ -33,14 +33,10 @@ input {
   background-color: white;
 }
 
-#output {
-  margin-top: 20px;
-  font-size: 20px;
-}
-
 .table {
   margin: auto;
   width: 90% !important;
+  margin-top: 50px;
 }
 
 tbody tr th {
