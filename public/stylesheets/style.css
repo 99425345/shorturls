@@ -1,0 +1,60 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #181a1b;
+}
+
+body {
+  margin: none;
+  padding: none;
+  /* background-image: url("../images/nasa-Q1p7bh3SHj8-unsplash.jpg"); */
+}
+
+main {
+  align-items: center;
+  text-align: center;
+  margin-top: 10%;
+  color: white;
+}
+
+button {
+  width: 90px;
+  height: 30px;
+  background-color: rgb(0, 255, 255);
+  font-weight: bold;
+  border-radius: 2px;
+  border: none;
+  font-size: 15px;
+}
+
+input {
+  width: 25%;
+  height: 30px;
+  border-radius: 2px;
+  border: none;
+  background-color: white;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.table {
+  margin: auto;
+  width: 90% !important;
+}
+
+tbody tr th {
+  background-color: #181a1b !important;
+  color: white !important;
+}
+
+thead tr th {
+  background-color: #181a1b !important;
+  color: white !important;
+}
+
+tbody tr td {
+  background-color: #181a1b !important;
+  color: white !important;
+}
